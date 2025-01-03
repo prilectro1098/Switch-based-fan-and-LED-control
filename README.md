@@ -1,5 +1,6 @@
 # Switch-based-fan-and-LED-control
 Created an Arduino-based LED &amp; Fan Control System using register-level programming with Timer 2. Users can control LEDs and a fan with switches, utilizing a 1-second delay for smooth toggling. A great example of my skills in embedded systems and low-level programming.
+
 Arduino-based LED & Fan Control System: Register-Level Programming Using Timer 2
 This project is an Arduino-based LED and fan control system, designed to respond to user input via push buttons. It utilizes register-level programming with Timer 2 for efficient, real-time control of the connected devices, demonstrating my ability to work with low-level hardware control for embedded systems.
 
